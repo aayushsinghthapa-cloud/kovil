@@ -1,0 +1,14 @@
+# build output
+build/
+kovil
+kovil_asan
+*.dSYM/
+*.o
+*.d
+
+# generated at runtime
+kovil.ini
+kovil.sav
+
+# macOS
+.DS_Store
